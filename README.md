@@ -1,4 +1,4 @@
-.NET-SDK
+ZenPrint-.NET-Client
 ========
 
-.NET SDK for Zenprint REST API
+.NET Client for Zenprint REST API
